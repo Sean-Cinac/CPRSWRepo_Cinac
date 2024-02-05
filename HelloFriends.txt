@@ -1,2 +1,6 @@
 Hallo zurück von Julian
+<<<<<<< HEAD
 Hallo zurück von Manuel
+=======
+FORSTERRRRRRRRRRRRRR?!!
+>>>>>>> 0b835b78726c311db82c9df5e3c2813dfd9c0eed
